@@ -1,0 +1,7 @@
+REPORTE DE VENTAS
+
+- Análisis ejecutado correctamente
+- KPI calculados:
+  * Ventas totales
+  * Producto más vendido
+  * Ventas por producto
